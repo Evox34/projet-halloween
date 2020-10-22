@@ -1,0 +1,21 @@
+h1.title{
+
+	background-color:#ff5733;
+}
+footer{
+	width:300PX;
+	size:300PX;
+	background-color:#cf4022;
+}
+
+div#among h2{
+	color:black;
+	 display: flex;
+	  border-width:1px;
+ border-style:solid  ;
+ border-color:#ff5733;
+ border-width:10px;
+ width:auto;
+	size:auto;
+	background-color:#d3583f;
+}
